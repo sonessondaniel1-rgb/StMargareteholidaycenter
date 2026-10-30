@@ -1,0 +1,14 @@
+ST MARGARETA HOLIDAY HOME – WEBBPLATS
+
+Detta är en riktig webbplats med 16 separata HTML-sidor.
+
+SÅ ÖPPNAR DU DEN:
+1. Packa upp ZIP-filen (Extrahera alla).
+2. Öppna mappen St_Margareta_Holiday_Home_SEPARATA_SIDOR.
+3. Dubbelklicka på index.html.
+4. Klicka på menyn för att gå mellan sidorna.
+
+OBS! Öppna inte en enskild HTML-fil inuti ZIP-filen; packa upp hela mappen så att länkar och bilder fungerar.
+
+Skolan länkar till https://sponsorastudent.netlify.app/
+Hotellet är planerat och bilderna är koncept-/inspirationsbilder.
