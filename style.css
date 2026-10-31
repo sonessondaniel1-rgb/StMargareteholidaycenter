@@ -14,3 +14,6 @@
 .nav .lang{grid-column:3;grid-row:1;justify-self:end}
 .nav .links{grid-column:1/-1;grid-row:2;justify-content:center;width:100%;order:initial}
 @media(max-width:680px){.nav{grid-template-columns:1fr auto;gap:12px}.nav .brand{grid-column:1/-1;grid-row:1;justify-self:center}.nav .lang{grid-column:2;grid-row:2}.nav .links{grid-column:1/-1;grid-row:3;justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap}}
+
+/* Compact navigation and readable package information */
+.nav .links{flex-wrap:wrap;overflow:visible;gap:10px 22px}.nav .links a{font-size:14px;min-height:44px;display:inline-flex;align-items:center}.reading-width{max-width:900px}.reading-width article{margin-bottom:38px}.reading-width h2{font:30px/1.25 Georgia,serif;color:var(--green)}.reading-width p{max-width:72ch}.experience-links{line-height:2.2}.experience-links a{text-decoration:underline;text-underline-offset:4px}@media(max-width:680px){.nav .links{justify-content:center;flex-wrap:wrap;overflow:visible;gap:0 16px}.nav .links a{font-size:13px}.reading-width h2{font-size:27px}}
